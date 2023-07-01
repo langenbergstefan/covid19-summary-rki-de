@@ -15,6 +15,8 @@ by the [Robert Koch Institute](https://github.com/orgs/robert-koch-institut)* <h
 | Vaccinated2 | People vaccinated against COVID-19 twice |
 | Vaccinated3 | People vaccinated against COVID-19 three times |
 
+License CC-BY-4.0
+
 ## MESH Terms
 
 * [COVID-19](http://id.nlm.nih.gov/mesh/D000086382)
